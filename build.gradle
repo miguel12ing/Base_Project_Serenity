@@ -42,9 +42,10 @@ compileTestJava.options.encoding = "iso-8859-1"
 serenity {
     reports = ["single-page-html"]
     testRoot = "starter"
-    requirementsDir = "src/test/resources/features"
+    requirementsDir = "src/test/resources/features/example"
 }
 
+//"src/test/resources/features"
 
 ext {
     serenityVersion = '3.6.12'
