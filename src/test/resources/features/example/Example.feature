@@ -1,7 +1,7 @@
-# language:es
-# encoding :iso-8859-1
+#language:es
+#encoding :utf-8
 
-Característica: Como cliente de Banco de Bogota quiero automatizar una pagina Web
+CaracterÃ­stica: Como cliente de Banco de Bogota quiero automatizar una pagina Web
 
  @Login
   Escenario: Quiero hacer Login en la pagina Web
